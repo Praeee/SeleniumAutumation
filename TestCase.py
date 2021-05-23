@@ -25,9 +25,6 @@ def logout():
 test("tomsmith", "SuperSecretPassword!")
 logout()
 
-
 test("tomsmith", "Password!")
-logout()
 
 test("tomholland", "Password!")
-logout()
